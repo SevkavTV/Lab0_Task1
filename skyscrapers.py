@@ -1,5 +1,6 @@
 '''
-Lab 0, Task 1. Archakov Vsevolod
+Lab 0, Task 1. Archakov Vsevolod.
+GitHub link: https://github.com/SevkavTV/Lab0_Task1.git
 '''
 
 
