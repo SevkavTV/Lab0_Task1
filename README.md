@@ -1,1 +1,1 @@
-# Lab0_Task1
+Lab 0 - Task 1. Task from final exam.
